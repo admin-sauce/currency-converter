@@ -1,4 +1,4 @@
-## Currency Conversion Project
+# Currency Conversion Project
 
 This Python project allows users to convert between different currencies such as USD, CAD, EUR, INR, AUD, and CNY. The program runs in a loop, continuously accepting user input for currency conversion until the user decides to exit.
 
